@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **Apparently you shouldn't use wall paint as sunblock. Still debatable.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
