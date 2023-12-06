@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently in the process of learning **Data Science in general.**
 
-- ⚡ Fun fact **Apparently you shouldn't use wall paint as sunblock. Still debatable.**
+- ⚡ Fun fact: **Apparently you shouldn't use wall paint as sunblock. Still debatable.**
 
 
 <h3 align="left">Languages and Tools:</h3>
