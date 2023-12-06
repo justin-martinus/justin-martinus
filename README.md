@@ -1,3 +1,6 @@
+[![MasterHead](https://github.com/justin-martinus/justin-martinus/blob/main/etc/bongo-cat.gif)](https://github.com/justin-martinus)
+<!-- <img align="center" alt="https://github.com/justin-martinus" width="1600" src="https://github.com/justin-martinus/justin-martinus/blob/main/etc/bongo-cat.gif"> -->
+
 <h1 align="center">Hi 👋, I'm Justin Martinus</h1>
 <h3 align="center">A student majoring in Statistics, looking to be a data scientist.</h3>
 
