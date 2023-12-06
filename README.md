@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Justin Martinus</h1>
 <h3 align="center">A student majoring in Statistics, looking to be a data scientist.</h3>
 
-<img align="center" alt="Coding" width="250" src="https://github.com/justin-martinus/justin-martinus/blob/main/etc/bongo-cat.gif">
-
 - 🌱 I’m currently in the process of learning **Data Science in general.**
 
 - ⚡ Fun fact: **Apparently you shouldn't use wall paint as sunblock. Still debatable.**
