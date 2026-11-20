@@ -2,9 +2,9 @@
 <!-- <img align="right" alt="https://github.com/justin-martinus" width="1600" src="https://github.com/justin-martinus/justin-martinus/blob/main/etc/bongo-cat.gif"> -->
 
 <h1 align="center">Hi 👋, I'm Justin Martinus</h1>
-<h3 align="center">A fresh graduate of Statistics, looking to be a data scientist.</h3>
+<h3 align="center">These are the projects I completed during my university studies.</h3>
 
-- 🌱 I’m currently in the process of learning **Data Science and its effective implementation.**
+- 🌱 I’m always in the process of learning **Data Science and its effective implementation.**
 
 <img align="right" alt="Coding" width="250" src="https://github.com/justin-martinus/justin-martinus/blob/main/etc/digging-holes-shy.gif">
 
