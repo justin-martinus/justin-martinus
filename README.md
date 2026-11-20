@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Justin Martinus</h1>
 <h3 align="center">These are the projects I completed during my university studies.</h3>
 
-- 🌱 I’m always in the process of learning **Data Science and its effective implementation.**
+- 🌱 I am always in the process of learning **Data Science and its effective implementation.**
 
 <img align="right" alt="Coding" width="250" src="https://github.com/justin-martinus/justin-martinus/blob/main/etc/digging-holes-shy.gif">
 
